@@ -1,0 +1,189 @@
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model_test:
+  properties:
+    field3:
+      type: string
+  type: object
+  xml:
+    name: model_test
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model_test:
+  properties:
+    field3:
+      type: string
+  type: object
+  xml:
+    name: model_test
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model_test:
+  properties:
+    field3:
+      type: string
+  type: object
+  xml:
+    name: model_test
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model_test:
+  properties:
+    field3:
+      type: string
+  type: object
+  xml:
+    name: model_test
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model_test:
+  properties:
+    field3:
+      type: string
+  type: object
+  xml:
+    name: model_test
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model_test:
+  properties:
+    field3:
+      type: string
+  type: object
+  xml:
+    name: model_test
+model1:
+  properties:
+    field1:
+      type: string
+  type: object
+  xml:
+    name: model1
+model3:
+  properties:
+    test_rel_field:
+      $ref: '#/definitions/model1'
+  type: object
+  xml:
+    name: model3
+model_test:
+  properties:
+    field3:
+      type: string
+  type: object
+  xml:
+    name: model_test
